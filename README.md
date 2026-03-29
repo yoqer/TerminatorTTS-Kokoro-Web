@@ -1,3 +1,11 @@
+
+!Nuestro Repositorio numero 100 en Gothan City, es una Web para Transcripcion de Texto a Voz!
+
+Esperamos convertir con ella una gran herramienta en [Terminator100](http://github.com/yoqer/Terminator100).
+
+
+
+
 # Kokoro Web
 
 ML-powered speech synthesis directly in your browser! Built with [🤗 Transformers.js](https://huggingface.co/docs/transformers.js).
